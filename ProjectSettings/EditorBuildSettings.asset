@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AYR.unity
     guid: 22e670fc9d1ebeb41b9b0c74d855df85
+  - enabled: 1
+    path: Assets/Scenes/IntroQuest.unity
+    guid: a319a63b1c0ed574ebc94ebe8e006421
   m_configObjects: {}

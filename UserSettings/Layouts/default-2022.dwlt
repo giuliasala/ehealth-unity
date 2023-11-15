@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349.3334
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 263
+  controlID: 4647
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 204
+  controlID: 4652
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 205
+  controlID: 4588
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 269
+  controlID: 4653
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -463,9 +463,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 081f0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 1cfbffff
+      m_ExpandedIDs: 3ed9ffff00daffffc4daffff9adbffff44ddffff1cdfffff58e0fffff2e1ffff9ee2ffff38e3ffff8ee3ffff38e4ffff50e5ffffa8e5ffffc2e6ffff4ce8ffffa0eaffffb2f1ffff32f5ffff8af5ffff20f6ffff92f6ffffb6f9ffff1cfbffff906200000e640000fe64000034660000b26600000c6700006c6800002e720000d6740000b6750000ae760000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -858,9 +858,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1934.4385, y: 981.80176, z: -10.916214}
+    m_Target: {x: 1509.8134, y: 951.229, z: -33.56453}
     speed: 2
-    m_Value: {x: 1934.4385, y: 981.80176, z: -10.916214}
+    m_Value: {x: 1509.8134, y: 951.229, z: -33.56453}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -982,7 +982,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/SceneChanger
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -990,15 +990,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/SceneChanger
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\dadep\Desktop\OFFICIAL CAVE ESCAPE\CAVE_ESCAPE
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a620000
-    m_LastClickedID: 25130
+    m_SelectedIDs: 50620000
+    m_LastClickedID: 25168
     m_ExpandedIDs: 00000000186200001a6200001c6200001e62000020620000226200002462000026620000286200002a62000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1054,7 +1054,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000706b0000a6b2000060aa00005a640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
